@@ -1,0 +1,31 @@
+Event Planning Assistant
+Welcome to the Event Planning Assistant – a versatile and intuitive application designed to streamline and simplify the management of 
+events, tasks, and attendees. Whether you're an organizer juggling multiple tasks or an attendee keeping track of events, this tool is 
+tailored to make your event planning experience seamless and efficient.
+
+Key Features:
+User-Friendly Interface: The application boasts a clean, modern interface with a soothing color scheme and intuitive navigation. The 
+layout is designed to be both visually appealing and easy to use, ensuring that all functions are just a click away.
+
+Comprehensive Task Management: Organizers can effortlessly add, view, and manage tasks related to their events. With detailed fields for 
+task names, descriptions, deadlines, and budgets, managing your event's workflow has never been easier.
+
+Dynamic Attendee Management: Register and track attendees with ease. The application allows you to add new attendees, view their details,
+ and keep track of their event registrations.
+
+Secure User Authentication: With robust user registration and login functionalities, the system ensures that only authorized users can 
+access sensitive features. Passwords are securely hashed to protect user data.
+
+Efficient Data Handling: View tasks and attendee information in a well-organized tabular format. The integrated treeview components make 
+it simple to navigate through lists of tasks and attendees.
+
+Role-Based Access: Different user roles (organizer and attendee) have tailored experiences, ensuring that each user can efficiently 
+perform tasks relevant to their role.
+
+Why Choose Us?
+The Event Planning Assistant is designed with both functionality and aesthetics in mind. Its thoughtful color palette, easy-to-read fonts
+, and well-spaced elements make it not only effective but also enjoyable to use. This tool is ideal for event organizers looking to 
+streamline their processes and for attendees who want to stay updated with their event schedules.
+
+Empower your event planning with a tool that combines elegance and efficiency. The Event Planning Assistant is your ultimate partner 
+in creating memorable and successful events.
